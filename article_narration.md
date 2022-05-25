@@ -62,7 +62,7 @@ link: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
 * Слой планировщик(шедулер): делает определенную схему обработки данных, проставляя нужные блокировки, проще говоря строит многопоточный граф обработки обращений к базе данных над каким-то thread-pool. 
 * Хранилище: содержит в себе физические данные. Запросы к данным Calvin используют простой CRUD интерфейс, использующие который другие базы данных, легко могут быть подстроены в Calvin 
 
-![Иллюстрация](https://github.com/piezzacondoleezza/ds_repo/raw/master/image.png)
+![Иллюстрация](https://github.com/piezzacondoleezza/ds_repo/raw/main/image.png)
 
 
 
