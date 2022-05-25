@@ -90,6 +90,9 @@ link: http://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf
 
 Поскольку далее идет анализ бенчмарок, мне кажется, ничто не опишет их лучше, чем графики:
 
+![Benchmark1](https://github.com/piezzacondoleezza/ds_repo/raw/main/bench1.png)
+![Benchmark2](https://github.com/piezzacondoleezza/ds_repo/raw/main/bench2.png)
+![Benchmark3](https://github.com/piezzacondoleezza/ds_repo/raw/main/bench3.png)
 
 
 
