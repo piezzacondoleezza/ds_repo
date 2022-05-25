@@ -21,3 +21,5 @@ Codeforces: https://codeforces.com/profile/rip
 Github: https://github.com/piezzacondoleezza
 
 Linkedin: https://www.linkedin.com/mwlite/in/evgeny-antrushin-484a05220
+
+Реферат по статье: https://github.com/piezzacondoleezza/ds_repo/blob/main/article_narration.md
